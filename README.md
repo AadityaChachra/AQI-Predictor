@@ -8,7 +8,6 @@ The AQI (Air Quality Index) Predictor is a machine learning project designed to 
 - [Project Workflow](#project-workflow)
 - [Model Architecture](#model-architecture)
 - [Training and Testing](#training-and-testing)
-- [Team Members](#team-members)
 - [Future Scope](#future-scope)
 
 ---
@@ -70,14 +69,6 @@ The model is a sequential neural network with the following layers:
 - **Training**: The model is trained on 80% of the prepared data for 50 epochs using the Adam optimizer and Mean Squared Error loss function.
 - **Testing**: The remaining 20% of the data is used to evaluate model performance.
 - **Daily/Monthly Comparisons**: Visualizations compare actual vs. predicted AQI values at daily and monthly levels.
-
----
-
-## Team Members
-- Aaditya Chachra - 2022UCM2303
-- Radhacharan - 2022UCM2365
-- Aniket Rathore - 2022UCM2366
-- Aman Kumar - 2022UCM2386
 
 ---
 
